@@ -13,3 +13,5 @@ You can use this file using any Text editor.
 ##Uses: 
 
 This program will get you stuff done. 
+
+--spelling looks fine
